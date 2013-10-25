@@ -26,4 +26,4 @@ class test
 
 $obj = new test();
 $obj->second;
-die();
+die("Test");
